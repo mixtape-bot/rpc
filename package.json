@@ -6,8 +6,7 @@
   "bin": "index.js",
   "license": "MIT",
   "scripts": {
-    "build": "pkg .",
-    "start": "node ."
+    "build": "pkg ."
   },
   "dependencies": {
     "discord-rpc": "^4.0.1"
