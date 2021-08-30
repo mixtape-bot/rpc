@@ -16,7 +16,6 @@
     "pkg": "^5.3.1"
   },
   "pkg": {
-    "scripts": "index.js",
     "outputPath": "dist",
     "targets": ["linux", "macos", "win"]
   }
