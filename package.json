@@ -5,6 +5,6 @@
   "author": "Seren_Modz 21",
   "license": "MIT",
   "dependencies": {
-    "discord-rpc": "^3.2.0"
+    "discord-rpc": "^4.0.1"
   }
 }

@@ -23,6 +23,4 @@ client.on("ready", () => {
   });
 });
 
-// Just need to upload the assets and set the client ID
-// It would be better for it to be on Mixtape's application to keep it in one area
 client.login({ clientId: "841334938766540811" }).catch(console.error);
